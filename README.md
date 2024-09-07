@@ -14,7 +14,8 @@
 This data analysis project analyzes the demographics, employment patterns, and turnover rates within the company. It explores the gender, race/ethnicity, and age breakdowns of employees, as well as their distribution across different departments, job titles, and locations. The Key focus areas includes the comparison of employees working at headquarters versus remote locations, the tenure of terminated employees, and the overall employee count changes over time. 
 
 
-![image alt](https://github.com/Inara-a/Documenting-Example-/blob/041f390ebf56bfa78746dce15716f42d55d92f08/Dashboard.jpeg)
+![Dashboard](https://github.com/user-attachments/assets/0a23be40-4b96-43dc-b172-4b1ebea9ae4d)
+
 
 ### Data Source
 The data for this project was sourced from a "Human Resources CSV file", containing detailed information on employee demographics, job roles, departments, hire and termination dates, and other relevant employment details.
@@ -68,7 +69,7 @@ The Analysis results are summarized as follows;
 3. The youngest employee is 20 years old and the oldest is 57 years old
 4. 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.
 5. A large number of employees work at the headquarters versus remotely.
-6. The average length of employment for terminated employees is around 7 years.
+6. The average length of employment for terminated employees is around 17 years.
 7. The gender distribution across departments is fairly balanced but there are generally more male than female employees.
 8. The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
 9. A large number of employees come from the state of Ohio.
