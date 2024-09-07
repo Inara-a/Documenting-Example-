@@ -14,8 +14,6 @@
 This data analysis project analyzes the demographics, employment patterns, and turnover rates within the company. It explores the gender, race/ethnicity, and age breakdowns of employees, as well as their distribution across different departments, job titles, and locations. The Key focus areas includes the comparison of employees working at headquarters versus remote locations, the tenure of terminated employees, and the overall employee count changes over time. 
 
 
-![Dashboard](https://github.com/user-attachments/assets/0a23be40-4b96-43dc-b172-4b1ebea9ae4d)
-
 
 ### Data Source
 The data for this project was sourced from a "Human Resources CSV file", containing detailed information on employee demographics, job roles, departments, hire and termination dates, and other relevant employment details.
